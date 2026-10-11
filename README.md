@@ -4,9 +4,7 @@
 
 ExamSphere is an Online Exam Question Management System developed using HTML, CSS, JavaScript, Python, Flask, SQLite, and Data Structures & Algorithms.
 
-## Team Contributions
-
-### 👨‍💻 Mehandi Hasan Ansari — Frontend Developer
+Frontend Developer
 
 Responsible for the frontend development of ExamSphere.
 
@@ -20,7 +18,7 @@ Responsible for the frontend development of ExamSphere.
 * Implemented frontend navigation and interactions
 * Integrated frontend with backend APIs
 
-### 👨‍💻 Tayyab Khan — Backend Developer
+  Backend Developer
 
 Responsible for the backend development of ExamSphere.
 
