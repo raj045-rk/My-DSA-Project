@@ -64,11 +64,6 @@ ExamSphere/
     ├── dsa.py
     ├── requirements.txt
     └── examsphere.db
-```
 
-## Team
 
-| Member               | Role               |
-| -------------------- | ------------------ |
-| Mehandi Hasan Ansari | Frontend Developer |
-| Tayyab Khan          | Backend Developer  |
+
